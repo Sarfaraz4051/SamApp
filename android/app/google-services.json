@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144786755335",
+    "project_id": "sam-react-native",
+    "storage_bucket": "sam-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144786755335:android:1b5624d6a04ff5caf5ffa2",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144786755335-13redl0pvkqpi7r03s9rc9bt9871g6sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCGXDhlf5c-Mie36XKUQOVK2HuQeu1Fps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144786755335-13redl0pvkqpi7r03s9rc9bt9871g6sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
